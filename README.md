@@ -52,6 +52,8 @@
 
 This is the system created to understand the use cases of Class and OOP. Having Multiple Versions and different level of knowledge application it goals to help student understand Class and OOP Logic and possibilites it could open with different scenarios and situations and limits.
 
+**Note: This uses a Codeblock to compile the code**
+
 <br />
 
 <div align="right">(<a href="#readme-top">back to top</a>)</div>
