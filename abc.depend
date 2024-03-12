@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1710230909 source:d:\codes\fresh_start\c++\new folder (2)\abc\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<fstream>
+	"Node.h"
+	"Player.h"
+	"FileHandling.h"
+
+1710228854 d:\codes\fresh_start\c++\new folder (2)\abc\include\player.h
+	<string>
+	<iostream>
+
+1710224380 source:d:\codes\fresh_start\c++\new folder (2)\abc\src\player.cpp
+	"Player.h"
+
+1710224357 d:\codes\fresh_start\c++\new folder (2)\abc\include\node.h
+	"Player.h"
+
+1710229846 d:\codes\fresh_start\c++\new folder (2)\abc\include\filehandling.h
+	<fstream>
+	"Node.h"
+
+1710231409 source:d:\codes\fresh_start\c++\new folder (2)\abc\src\filehandling.cpp
+	"FileHandling.h"
+
