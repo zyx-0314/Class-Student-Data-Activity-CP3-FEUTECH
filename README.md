@@ -152,6 +152,10 @@ the values I placed are;
 
 ---
 
+7. Submit
+
+<img src="./Docs/img/submit.png" alt="Nyebe" width="130" height="100">
+
 ### Follow and Star
 If you find this project interesting, consider giving it a star on GitHub. You can also follow the repository for updates and notifications.
 
