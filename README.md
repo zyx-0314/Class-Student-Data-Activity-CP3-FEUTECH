@@ -100,9 +100,12 @@ Versions:
 ### Fork
 You can make your own copy of the project by Forking the project.
 
-<img src="./Docs/img/fork.png" alt="Nyebe" width="130" height="100">
+<img src="./Docs/img/fork.png" alt="Nyebe" width="1000" height="100">
 
 You can contribute by doing Pull Request after you modify the project. 
+
+<br/>
+<br/>
 
 ### Make an Issue
 If you encounter any issues or bugs, please create an issue on the GitHub repository.
@@ -111,7 +114,7 @@ Steps:
 
 1. Find the Issue Tab
 
-<img src="./Docs/img/issue.png" alt="Nyebe" width="130" height="100">
+<img src="./Docs/img/Issue.png" alt="Nyebe" width="1000" height="100">
 
 2. Find the New Issue Button
 
@@ -119,11 +122,11 @@ Steps:
 
 4. Add a Short Title
 
-<img src="./Docs/img/issue-title.png" alt="Nyebe" width="130" height="100">
+<img src="./Docs/img/issue-title.png" alt="Nyebe" width="1800" height="100">
 
 6. Add Descriptions
 
-<img src="./Docs/img/issue-description.png" alt="Nyebe" width="130" height="100">
+<img src="./Docs/img/issue-description.png" alt="Nyebe" width="1800" height="340">
 
 Format of Description
    i.   Problem - Describe the problem
@@ -154,14 +157,17 @@ the values I placed are;
 
 7. Submit
 
-<img src="./Docs/img/submit.png" alt="Nyebe" width="130" height="100">
+<img src="./Docs/img/submit-issue.png" alt="Nyebe" width="180" height="60">
+
+<br/>
+<br/>
 
 ### Follow and Star
 If you find this project interesting, consider giving it a star on GitHub. You can also follow the repository for updates and notifications.
 
-<img src="./Docs/img/follow.png" alt="Nyebe" width="130" height="100">
+<img src="./Docs/img/follow.png" alt="Nyebe" width="250" height="100">
 
-<img src="./Docs/img/star.png" alt="Nyebe" width="130" height="100">
+<img src="./Docs/img/star.png" alt="Nyebe" width="450" height="50">
 
 <br />
 
